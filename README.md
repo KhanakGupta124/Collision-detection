@@ -1,2 +1,2 @@
-# Collision-detection
-In this program, we are checking for collision and changing the colour of the rectangles. 
+# p5.play-boilerplate
+Boiler plate for p5.play
